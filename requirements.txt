@@ -1,0 +1,57 @@
+beautifulsoup4
+charset-normalizer
+contourpy
+cycler
+Cython
+dt-apriltags
+easydict
+ffmpeg-python
+filelock
+fire
+fonttools
+gdown
+got10k
+idna
+importlib-resources
+imutils
+kiwisolver
+matplotlib
+munkres
+# numpy==1.24.2
+# nvidia-cublas-cu11==11.11.3.6
+#nvidia-cuda-runtime-cu11==11.8.89
+# nvidia-cudnn-cu11==8.9.0.131
+packaging
+pgi
+pika
+Pillow
+#pycairo==1.23.0
+pycocotools
+#PyGObject==3.42.2
+pyparsing
+pyrealsense2==2.53.1.4623
+PySocks
+python-dateutil
+PyYAML
+# pyzed==4.0
+requests
+scipy
+shapely
+six
+soupsieve
+# tensorrt==8.5.1.7
+termcolor
+lap
+cython_bbox
+onnx_graphsurgeon
+
+#torch==1.13.1+cu116
+#torch2trt==0.4.0
+#torchaudio==0.13.1+cu116
+#torchvision==0.14.1+cu116
+#tqdm==4.65.0
+#typing_extensions==4.5.0
+#urllib3==1.26.15
+#wget==3.2
+#zipp==3.15.0
+

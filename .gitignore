@@ -16,6 +16,7 @@ __pycache__/
 *.jpg
 *.model
 *.png
+*.jpeg
 *.tar
 *.zip
 *.ckpt

@@ -1,0 +1,6 @@
+--cfg FasterVP/FasterVoxelPose/configs/panoptic/test_strintzis.yaml 
+--use_bytetrack 
+--video 
+--cams_n 5
+
+
