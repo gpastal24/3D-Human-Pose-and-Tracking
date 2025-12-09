@@ -62,6 +62,13 @@ The main script accepts the following arguments:
 - `--save_video`: Save the output videos.
 
 ## Scripts
+### `download_weights.sh`
+
+This script is used for downloading the necessary weights. Currently Faster Voxel Pose weights are used, our own weights will be made available upon acceptance.
+
+```bash
+bash download_weights.sh
+```
 
 ### `run.sh`
 
